@@ -128,7 +128,6 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
     <ClCompile Include="test.cpp" />
-    <ClCompile Include="Test_simple.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ShuffleIterator\ShuffleIterator.vcxproj">
